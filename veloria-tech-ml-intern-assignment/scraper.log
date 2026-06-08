@@ -1,0 +1,178 @@
+2026-06-08 13:45:04,134 - ERROR - Failed to fetch page: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=MI | 404 Client Error: Not Found for url: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=MI
+2026-06-08 13:45:04,134 - ERROR - Failed to fetch team page https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=MI: 404 Client Error: Not Found for url: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=MI
+2026-06-08 13:45:04,747 - ERROR - Failed to fetch page: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=CSK | 404 Client Error: Not Found for url: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=CSK
+2026-06-08 13:45:04,763 - ERROR - Failed to fetch team page https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=CSK: 404 Client Error: Not Found for url: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=CSK
+2026-06-08 13:45:04,767 - INFO - CSV saved with 0 records
+2026-06-08 13:46:05,725 - ERROR - Failed to fetch page: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=MI | 404 Client Error: Not Found for url: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=MI
+2026-06-08 13:46:05,731 - ERROR - Failed to fetch team page https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=MI: 404 Client Error: Not Found for url: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=MI
+2026-06-08 13:46:06,354 - ERROR - Failed to fetch page: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=CSK | 404 Client Error: Not Found for url: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=CSK
+2026-06-08 13:46:06,354 - ERROR - Failed to fetch team page https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=CSK: 404 Client Error: Not Found for url: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=CSK
+2026-06-08 13:46:06,362 - INFO - CSV saved with 0 records
+2026-06-08 13:48:25,689 - ERROR - Failed to fetch page: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=MI | 404 Client Error: Not Found for url: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=MI
+2026-06-08 13:48:25,689 - ERROR - Failed to fetch team page https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=MI: 404 Client Error: Not Found for url: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=MI
+2026-06-08 13:48:26,737 - ERROR - Failed to fetch page: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=CSK | 404 Client Error: Not Found for url: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=CSK
+2026-06-08 13:48:26,740 - ERROR - Failed to fetch team page https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=CSK: 404 Client Error: Not Found for url: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=CSK
+2026-06-08 13:48:26,752 - INFO - CSV saved with 0 records
+2026-06-08 13:52:13,419 - ERROR - Failed to fetch page: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=MI | 404 Client Error: Not Found for url: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=MI
+2026-06-08 13:52:13,419 - ERROR - Failed to fetch team page https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=MI: 404 Client Error: Not Found for url: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=MI
+2026-06-08 13:52:13,419 - WARNING - No match links found for https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=MI
+2026-06-08 13:52:14,571 - ERROR - Failed to fetch page: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=CSK | 404 Client Error: Not Found for url: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=CSK
+2026-06-08 13:52:14,571 - ERROR - Failed to fetch team page https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=CSK: 404 Client Error: Not Found for url: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=CSK
+2026-06-08 13:52:14,571 - WARNING - No match links found for https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=CSK
+2026-06-08 13:52:14,578 - INFO - CSV saved with 0 records
+2026-06-08 13:53:31,665 - ERROR - Failed to fetch page: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=MI | 404 Client Error: Not Found for url: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=MI
+2026-06-08 13:53:31,681 - ERROR - Failed to fetch team page https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=MI: 404 Client Error: Not Found for url: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=MI
+2026-06-08 13:53:31,681 - WARNING - No match links found for https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=MI
+2026-06-08 13:53:32,032 - ERROR - Failed to fetch page: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=CSK | 404 Client Error: Not Found for url: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=CSK
+2026-06-08 13:53:32,032 - ERROR - Failed to fetch team page https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=CSK: 404 Client Error: Not Found for url: https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=CSK
+2026-06-08 13:53:32,032 - WARNING - No match links found for https://www.howstat.com/cricket/Statistics/IPL/Teams/TeamOverview.asp?TeamCode=CSK
+2026-06-08 13:53:32,048 - INFO - CSV saved with 0 records
+2026-06-08 14:00:37,717 - ERROR - Failed to fetch page: https://www.howstat.com/MatchList.asp | 404 Client Error: Not Found for url: https://www.howstat.com/MatchList.asp
+2026-06-08 14:00:37,717 - ERROR - Failed to fetch page https://www.howstat.com/MatchList.asp: 404 Client Error: Not Found for url: https://www.howstat.com/MatchList.asp
+2026-06-08 14:00:37,717 - WARNING - No scorecard links found at https://www.howstat.com/MatchList.asp
+2026-06-08 14:00:37,724 - INFO - CSV saved with 0 records
+2026-06-08 14:01:08,459 - INFO - Using match list URL: https://www.howstat.com/Cricket/Statistics/IPL/MatchList.asp
+2026-06-08 14:01:19,285 - INFO - CSV saved with 0 records
+2026-06-08 14:02:23,513 - INFO - Using match list URL: https://www.howstat.com/Cricket/Statistics/IPL/MatchList.asp
+2026-06-08 14:02:32,937 - INFO - CSV saved with 0 records
+2026-06-08 14:05:07,193 - INFO - Using match list URL: https://www.howstat.com/Cricket/Statistics/IPL/MatchList.asp
+2026-06-08 14:05:19,413 - INFO - CSV saved with 0 records
+2026-06-08 14:06:32,874 - INFO - Using match list URL: https://www.howstat.com/Cricket/Statistics/IPL/MatchList.asp
+2026-06-08 14:06:41,141 - INFO - Using match list URL: https://www.howstat.com/Cricket/Statistics/IPL/MatchList.asp
+2026-06-08 14:06:41,939 - INFO - CSV saved with 0 records
+2026-06-08 14:06:52,207 - INFO - CSV saved with 0 records
+2026-06-08 14:08:04,541 - INFO - Using match list URL: https://www.howstat.com/Cricket/Statistics/IPL/MatchList.asp
+2026-06-08 14:08:15,448 - INFO - CSV saved with 0 records
+2026-06-08 14:09:06,148 - INFO - Using match list URL: https://www.howstat.com/Cricket/Statistics/IPL/MatchList.asp
+2026-06-08 14:09:15,606 - INFO - CSV saved with 0 records
+2026-06-08 14:09:24,821 - INFO - Using match list URL: https://www.howstat.com/Cricket/Statistics/IPL/MatchList.asp
+2026-06-08 14:09:33,355 - INFO - CSV saved with 0 records
+2026-06-08 14:11:44,436 - INFO - Using match list URL: https://www.howstat.com/Cricket/Statistics/IPL/MatchList.asp
+2026-06-08 14:11:46,276 - INFO - Scraped: Royal Challengers Bengaluru vs Kolkata Knight Riders
+2026-06-08 14:11:46,852 - INFO - Scraped: Kings XI Punjab vs Chennai Super Kings
+2026-06-08 14:11:47,700 - INFO - Scraped: Delhi Daredevils vs Rajasthan Royals
+2026-06-08 14:11:48,439 - INFO - Scraped: Kolkata Knight Riders vs Deccan Chargers
+2026-06-08 14:11:48,841 - INFO - Scraped: Mumbai Indians vs Royal Challengers Bengaluru
+2026-06-08 14:11:49,480 - INFO - Scraped: Rajasthan Royals vs Kings XI Punjab
+2026-06-08 14:11:50,335 - INFO - Scraped: Deccan Chargers vs Delhi Daredevils
+2026-06-08 14:11:51,032 - INFO - Scraped: Chennai Super Kings vs Mumbai Indians
+2026-06-08 14:11:52,690 - INFO - Scraped: Deccan Chargers vs Rajasthan Royals
+2026-06-08 14:11:53,743 - INFO - Scraped: Kings XI Punjab vs Mumbai Indians
+2026-06-08 14:11:53,745 - INFO - CSV saved with 10 records
+2026-06-08 14:53:37,908 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1199 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 14:53:37,908 - INFO - Scraped: Chennai Super Kings vs Delhi Capitals
+2026-06-08 14:53:37,915 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1188 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 14:53:37,915 - INFO - Scraped: Chennai Super Kings vs Punjab Kings
+2026-06-08 14:53:37,922 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1234 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 14:53:37,922 - INFO - Scraped: Chennai Super Kings vs Lucknow Super Giants
+2026-06-08 14:53:37,922 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1192 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 14:53:37,922 - INFO - Scraped: Chennai Super Kings vs Royal Challengers Bengaluru
+2026-06-08 14:53:37,922 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1214 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 14:53:37,922 - INFO - Scraped: Chennai Super Kings vs Mumbai Indians
+2026-06-08 14:53:37,922 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1203 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 14:53:37,922 - INFO - Scraped: Chennai Super Kings vs Kolkata Knight Riders
+2026-06-08 14:53:37,922 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1240 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 14:53:37,922 - INFO - Scraped: Chennai Super Kings vs Lucknow Super Giants
+2026-06-08 14:53:37,943 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1208 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 14:53:37,943 - INFO - Scraped: Chennai Super Kings vs Sunrisers Hyderabad
+2026-06-08 14:53:37,943 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1244 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 14:53:37,943 - INFO - Scraped: Chennai Super Kings vs Sunrisers Hyderabad
+2026-06-08 14:53:37,952 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1225 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 14:53:37,952 - INFO - Scraped: Chennai Super Kings vs Mumbai Indians
+2026-06-08 14:53:37,964 - INFO - CSV saved successfully with 10 rows
+2026-06-08 14:55:04,355 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1199 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 14:55:04,355 - INFO - Scraped: Chennai Super Kings vs Delhi Capitals
+2026-06-08 14:55:04,357 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1188 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 14:55:04,357 - INFO - Scraped: Chennai Super Kings vs Punjab Kings
+2026-06-08 14:55:04,357 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1234 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 14:55:04,357 - INFO - Scraped: Chennai Super Kings vs Lucknow Super Giants
+2026-06-08 14:55:04,357 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1192 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 14:55:04,357 - INFO - Scraped: Chennai Super Kings vs Royal Challengers Bengaluru
+2026-06-08 14:55:04,369 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1214 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 14:55:04,369 - INFO - Scraped: Chennai Super Kings vs Mumbai Indians
+2026-06-08 14:55:04,371 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1203 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 14:55:04,371 - INFO - Scraped: Chennai Super Kings vs Kolkata Knight Riders
+2026-06-08 14:55:04,371 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1240 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 14:55:04,371 - INFO - Scraped: Chennai Super Kings vs Lucknow Super Giants
+2026-06-08 14:55:04,371 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1208 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 14:55:04,371 - INFO - Scraped: Chennai Super Kings vs Sunrisers Hyderabad
+2026-06-08 14:55:04,371 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1244 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 14:55:04,371 - INFO - Scraped: Chennai Super Kings vs Sunrisers Hyderabad
+2026-06-08 14:55:04,371 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1225 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 14:55:04,371 - INFO - Scraped: Chennai Super Kings vs Mumbai Indians
+2026-06-08 14:55:04,419 - INFO - CSV saved successfully with 10 rows
+2026-06-08 15:01:56,263 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1199 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 15:01:56,263 - INFO - Scraped: Chennai Super Kings vs Delhi Capitals
+2026-06-08 15:01:56,263 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1188 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 15:01:56,263 - INFO - Scraped: Chennai Super Kings vs Punjab Kings
+2026-06-08 15:01:56,263 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1234 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 15:01:56,263 - INFO - Scraped: Chennai Super Kings vs Lucknow Super Giants
+2026-06-08 15:01:56,263 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1192 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 15:01:56,263 - INFO - Scraped: Chennai Super Kings vs Royal Challengers Bengaluru
+2026-06-08 15:01:56,263 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1214 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 15:01:56,263 - INFO - Scraped: Chennai Super Kings vs Mumbai Indians
+2026-06-08 15:01:56,270 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1203 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 15:01:56,270 - INFO - Scraped: Chennai Super Kings vs Kolkata Knight Riders
+2026-06-08 15:01:56,270 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1240 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 15:01:56,270 - INFO - Scraped: Chennai Super Kings vs Lucknow Super Giants
+2026-06-08 15:01:56,270 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1208 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 15:01:56,270 - INFO - Scraped: Chennai Super Kings vs Sunrisers Hyderabad
+2026-06-08 15:01:56,270 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1244 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 15:01:56,270 - INFO - Scraped: Chennai Super Kings vs Sunrisers Hyderabad
+2026-06-08 15:01:56,270 - ERROR - Top scorer extraction failed: HTTPSConnectionPool(host='www.howstat.commatchscorecard.asp', port=443): Max retries exceeded with url: /?MatchCode=1225 (Caused by NameResolutionError("HTTPSConnection(host='www.howstat.commatchscorecard.asp', port=443): Failed to resolve 'www.howstat.commatchscorecard.asp' ([Errno 11001] getaddrinfo failed)"))
+2026-06-08 15:01:56,270 - INFO - Scraped: Chennai Super Kings vs Mumbai Indians
+2026-06-08 15:01:56,277 - INFO - CSV saved successfully with 10 rows
+2026-06-08 15:02:19,895 - ERROR - Top scorer extraction failed: 404 Client Error: Not Found for url: https://www.howstat.com/MatchScorecard.asp?MatchCode=1199
+2026-06-08 15:02:19,895 - INFO - Scraped: Chennai Super Kings vs Delhi Capitals
+2026-06-08 15:02:20,220 - ERROR - Top scorer extraction failed: 404 Client Error: Not Found for url: https://www.howstat.com/MatchScorecard.asp?MatchCode=1188
+2026-06-08 15:02:20,220 - INFO - Scraped: Chennai Super Kings vs Punjab Kings
+2026-06-08 15:02:20,540 - ERROR - Top scorer extraction failed: 404 Client Error: Not Found for url: https://www.howstat.com/MatchScorecard.asp?MatchCode=1234
+2026-06-08 15:02:20,540 - INFO - Scraped: Chennai Super Kings vs Lucknow Super Giants
+2026-06-08 15:02:21,367 - ERROR - Top scorer extraction failed: 404 Client Error: Not Found for url: https://www.howstat.com/MatchScorecard.asp?MatchCode=1192
+2026-06-08 15:02:21,367 - INFO - Scraped: Chennai Super Kings vs Royal Challengers Bengaluru
+2026-06-08 15:02:21,700 - ERROR - Top scorer extraction failed: 404 Client Error: Not Found for url: https://www.howstat.com/MatchScorecard.asp?MatchCode=1214
+2026-06-08 15:02:21,700 - INFO - Scraped: Chennai Super Kings vs Mumbai Indians
+2026-06-08 15:02:22,422 - ERROR - Top scorer extraction failed: 404 Client Error: Not Found for url: https://www.howstat.com/MatchScorecard.asp?MatchCode=1203
+2026-06-08 15:02:22,422 - INFO - Scraped: Chennai Super Kings vs Kolkata Knight Riders
+2026-06-08 15:02:22,936 - ERROR - Top scorer extraction failed: 404 Client Error: Not Found for url: https://www.howstat.com/MatchScorecard.asp?MatchCode=1240
+2026-06-08 15:02:22,936 - INFO - Scraped: Chennai Super Kings vs Lucknow Super Giants
+2026-06-08 15:02:23,297 - ERROR - Top scorer extraction failed: 404 Client Error: Not Found for url: https://www.howstat.com/MatchScorecard.asp?MatchCode=1208
+2026-06-08 15:02:23,297 - INFO - Scraped: Chennai Super Kings vs Sunrisers Hyderabad
+2026-06-08 15:02:23,762 - ERROR - Top scorer extraction failed: 404 Client Error: Not Found for url: https://www.howstat.com/MatchScorecard.asp?MatchCode=1244
+2026-06-08 15:02:23,762 - INFO - Scraped: Chennai Super Kings vs Sunrisers Hyderabad
+2026-06-08 15:02:24,144 - ERROR - Top scorer extraction failed: 404 Client Error: Not Found for url: https://www.howstat.com/MatchScorecard.asp?MatchCode=1225
+2026-06-08 15:02:24,144 - INFO - Scraped: Chennai Super Kings vs Mumbai Indians
+2026-06-08 15:02:24,158 - INFO - CSV saved successfully with 10 rows
+2026-06-08 15:06:42,581 - INFO - Scraped: Chennai Super Kings vs Delhi Capitals
+2026-06-08 15:06:43,401 - INFO - Scraped: Chennai Super Kings vs Punjab Kings
+2026-06-08 15:06:44,742 - INFO - Scraped: Chennai Super Kings vs Lucknow Super Giants
+2026-06-08 15:06:45,221 - INFO - Scraped: Chennai Super Kings vs Royal Challengers Bengaluru
+2026-06-08 15:06:46,266 - INFO - Scraped: Chennai Super Kings vs Mumbai Indians
+2026-06-08 15:06:46,603 - INFO - Scraped: Chennai Super Kings vs Delhi Capitals
+2026-06-08 15:06:47,313 - INFO - Scraped: Chennai Super Kings vs Punjab Kings
+2026-06-08 15:06:48,089 - INFO - Scraped: Chennai Super Kings vs Kolkata Knight Riders
+2026-06-08 15:06:48,089 - INFO - Scraped: Chennai Super Kings vs Lucknow Super Giants
+2026-06-08 15:06:48,950 - INFO - Scraped: Chennai Super Kings vs Lucknow Super Giants
+2026-06-08 15:06:49,114 - INFO - Scraped: Chennai Super Kings vs Royal Challengers Bengaluru
+2026-06-08 15:06:49,397 - INFO - Scraped: Chennai Super Kings vs Sunrisers Hyderabad
+2026-06-08 15:06:49,728 - INFO - Scraped: Chennai Super Kings vs Mumbai Indians
+2026-06-08 15:06:50,348 - INFO - Scraped: Chennai Super Kings vs Sunrisers Hyderabad
+2026-06-08 15:06:50,552 - INFO - Scraped: Chennai Super Kings vs Kolkata Knight Riders
+2026-06-08 15:06:50,971 - INFO - Scraped: Chennai Super Kings vs Mumbai Indians
+2026-06-08 15:06:50,980 - INFO - CSV saved successfully with 10 rows
+2026-06-08 15:06:51,431 - INFO - Scraped: Chennai Super Kings vs Lucknow Super Giants
+2026-06-08 15:06:52,394 - INFO - Scraped: Chennai Super Kings vs Sunrisers Hyderabad
+2026-06-08 15:06:53,123 - INFO - Scraped: Chennai Super Kings vs Sunrisers Hyderabad
+2026-06-08 15:06:53,684 - INFO - Scraped: Chennai Super Kings vs Mumbai Indians
+2026-06-08 15:06:53,721 - INFO - CSV saved successfully with 10 rows
+2026-06-08 15:07:41,429 - INFO - Scraped: Chennai Super Kings vs Delhi Capitals
+2026-06-08 15:07:42,587 - INFO - Scraped: Chennai Super Kings vs Punjab Kings
+2026-06-08 15:07:43,775 - INFO - Scraped: Chennai Super Kings vs Lucknow Super Giants
+2026-06-08 15:07:44,504 - INFO - Scraped: Chennai Super Kings vs Royal Challengers Bengaluru
+2026-06-08 15:07:45,733 - INFO - Scraped: Chennai Super Kings vs Mumbai Indians
+2026-06-08 15:07:46,722 - INFO - Scraped: Chennai Super Kings vs Kolkata Knight Riders
+2026-06-08 15:07:47,671 - INFO - Scraped: Chennai Super Kings vs Lucknow Super Giants
+2026-06-08 15:07:48,496 - INFO - Scraped: Chennai Super Kings vs Sunrisers Hyderabad
+2026-06-08 15:07:49,542 - INFO - Scraped: Chennai Super Kings vs Sunrisers Hyderabad
+2026-06-08 15:07:50,344 - INFO - Scraped: Chennai Super Kings vs Mumbai Indians
+2026-06-08 15:07:50,378 - INFO - CSV saved successfully with 10 rows
