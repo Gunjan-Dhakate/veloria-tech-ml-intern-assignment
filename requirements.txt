@@ -1,0 +1,17 @@
+pandas>=2.2.0
+numpy>=1.26.0
+
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+lxml>=5.2.1
+
+scikit-learn>=1.5.0
+matplotlib>=3.9.0
+joblib>=1.4.2
+
+sentence-transformers>=3.0.1
+chromadb>=0.5.3
+torch>=2.3.0
+
+tqdm>=4.66.4
+typing-extensions>=4.12.0
